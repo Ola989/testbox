@@ -1,0 +1,5 @@
+ami-0b69ea66ff7391e80
+i-01c45728a046e873a
+ip-172-31-81-151.ec2.internal
+launch-wizard-1
+ec2-54-243-5-117.compute-1.amazonaws.com
